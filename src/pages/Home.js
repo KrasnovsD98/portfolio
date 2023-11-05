@@ -15,11 +15,7 @@ const Home = () => {
               </li>
               <li className="content-list__item">
                 <h2 className="title-2">Backend</h2>
-                <p>NodeJS, MySQL, PHP, C#, .NET</p>
-              </li>
-              <li className="content-list__item">
-                <h3 className="title-3">Cloud computing platform</h3>
-                <p>ServiceNow</p>
+                <p>ServiceNow, NodeJS, MySQL, PHP, C#, .NET</p>
               </li>
             </ul>
           </div>
