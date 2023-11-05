@@ -18,7 +18,7 @@ const Home = () => {
                 <p>NodeJS, MySQL, PHP, C#, .NET</p>
               </li>
               <li className="content-list__item">
-                <h2 className="title-3">Cloud computing platform</h2>
+                <h3 className="title-3">Cloud computing platform</h3>
                 <p>ServiceNow</p>
               </li>
             </ul>
