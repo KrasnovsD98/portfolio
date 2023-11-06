@@ -1,7 +1,10 @@
 import "./style.css";
 import photo from "./../../img/profile.jpg";
+import { motion } from "framer-motion";
+
 
 const Header = () => {
+
     return (
       <header className="header">
         <div className="header__wrapper">
@@ -18,12 +21,14 @@ const Header = () => {
           <div className="header__text">
             <p>with passion for learning and creating.</p>
           </div>
-          <a
+          <motion.a
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }} 
             href="https://drive.google.com/file/d/1zm96shzXInldICU6CVQRcZGVovvOGgWD/view?usp=drive_link"
             className="btn"
           >
             Download CV
-          </a>
+          </motion.a>
         </div>
       </header>
     );

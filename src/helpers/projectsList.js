@@ -10,7 +10,7 @@ const projects = [
     title: "Music App",
     img: project02,
     imgBig: project02Big,
-    skills: "React JS, Node.js, Netify",
+    skills: "React JS, Vite, Node.js, Netlify",
     gitHubLink: "https://github.com/KrasnovsD98/Music",
   },
   {
