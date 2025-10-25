@@ -24,7 +24,7 @@ const Header = () => {
           <motion.a
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }} 
-            href="https://drive.google.com/file/d/1zm96shzXInldICU6CVQRcZGVovvOGgWD/view?usp=drive_link"
+            href="https://drive.google.com/file/d/14zvQgpbf4eMs6-Pv5IhW_muhxxSw4LIF/view?usp=sharing"
             className="btn"
           >
             Download CV
